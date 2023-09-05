@@ -3,7 +3,7 @@
     {
       "exec_mode": "fork_mode",
       "script": "./api/api.js",
-      "name": "highpiler_development_4025",
+      "name": "tp_hp_development_4025",
       "node_args": [],
       "env": {
         "PORT": 4025,
