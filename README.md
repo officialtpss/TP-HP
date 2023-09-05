@@ -421,7 +421,7 @@ Here you define all your routes for your api. It doesn't matter how you structur
 
 ## Create Routes
 
-For further information read the [docs](https://github.com/aichbauer/express-routes-mapper/blob/master/README.md) of express-routes-mapper.
+For further information read the [docs](https://github.com/officialtpss/TP-HP) of express-routes-mapper.
 
 Example for User Model:
 
