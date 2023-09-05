@@ -46,7 +46,7 @@
     "node-cron": "^3.0.2",
     "nodemailer": "^6.4.6",
     "path": "^0.12.7",
-    "sequelize": "^5.21.3",
+    "sequelize": "^6.29.0",
     "sqlite3": "^4.0.0",
     "stripe": "^8.165.0",
     "swagger-jsdoc": "^3.5.0",
